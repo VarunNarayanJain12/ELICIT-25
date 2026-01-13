@@ -87,9 +87,6 @@ vercel --prod
 ## 📄 License
 - No license file included. Add a `LICENSE` file if you want to set an explicit license.
 
-## 📞 Contact
-- Project owner (repo): [sarthakroutray](https://github.com/sarthakroutray)
-
 ---
 
 **Completion note:** This README is intended to provide enough information to run, build, and deploy the site and to make the common edits you asked for (countdown date, intro persistence, navigation behavior). If you want, I can also add a short troubleshooting script or a small CLI helper that validates `vercel.json` and the build output.
